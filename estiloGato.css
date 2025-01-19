@@ -1,0 +1,44 @@
+body{
+    background-color: #322030 ;
+
+}
+
+header
+{
+    color: #c1a2a0;
+    text-align: center;
+    font-family:"Smooch Sans", serif;
+    font-size: 52px;
+    
+}
+
+h1,
+h2{
+    color: #e3cebd ;
+    text-align: left;
+    font-family: "Satisfy", serif;
+    font-size: 35px;
+}
+
+.descripcion{
+    color: #fcfdeb;
+    text-align: justify;
+    font-family:"Satisfy", serif;
+    font-size: 25px;
+}
+
+.tops{
+    color: #fcfdeb;
+}
+
+
+footer{
+    color:  #c1a2a0;
+    text-align:center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#foto-gatos{
+    width: 150px;
+}
+
